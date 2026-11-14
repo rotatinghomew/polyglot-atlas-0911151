@@ -1,0 +1,8 @@
+[project]
+name = "polyglot-atlas"
+version = "0.1.0"
+description = "按语种分离的本地向量索引与素材权限检索"
+requires-python = ">=3.11,<3.12"
+
+[tool.unittest]
+start-directory = "tests"

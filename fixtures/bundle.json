@@ -1,0 +1,4990 @@
+{
+  "schema_version": 1,
+  "product": "polyglot-atlas",
+  "description": "本地合成业务记录；不对应真实个人、机构或调查结论。",
+  "tables": {
+    "vectors": [
+      {
+        "id": "zh-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.504153,
+          -0.659888,
+          1.945296,
+          0.217461,
+          0.320708,
+          -0.925034
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          1.953135,
+          0.231497,
+          0.304008,
+          -1.000238,
+          -0.541989,
+          -0.650673
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.542714,
+          0.685188,
+          -1.987304,
+          -0.236598,
+          -0.251419,
+          1.011936
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.1757,
+          -0.687524,
+          0.852316,
+          -0.085651,
+          1.126387,
+          0.209182
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.83774,
+          -0.06031,
+          1.142369,
+          0.169407,
+          0.102296,
+          -0.704769
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.130303,
+          0.673132,
+          -0.873947,
+          0.120281,
+          -1.151502,
+          -0.155166
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.278804,
+          -0.235485,
+          0.954112,
+          0.829785,
+          -1.446809,
+          -0.759356
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.990885,
+          0.830802,
+          -1.396028,
+          -0.739778,
+          -1.213663,
+          -0.22663
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          1.330511,
+          0.2453,
+          -0.95831,
+          -0.893762,
+          1.470797,
+          0.749839
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-3",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.366068,
+          -1.925908,
+          0.82982,
+          -0.319168,
+          -0.964539,
+          0.176664
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-3",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.825512,
+          -0.286191,
+          -0.933914,
+          0.239857,
+          -0.370833,
+          -1.954874
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-3",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.327779,
+          1.856252,
+          -0.830124,
+          0.323437,
+          0.896265,
+          -0.120681
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-4",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.86549,
+          1.63743,
+          -1.472812,
+          0.195045,
+          -0.260809,
+          0.294007
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-4",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -1.459447,
+          0.156861,
+          -0.263695,
+          0.255526,
+          -0.911439,
+          1.651874
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-4",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.902965,
+          -1.626347,
+          1.531543,
+          -0.208417,
+          0.199478,
+          -0.271676
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-5",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.375489,
+          -1.7199,
+          -0.223375,
+          1.476155,
+          -0.061544,
+          -1.349287
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-5",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.15147,
+          1.512005,
+          -0.005755,
+          -1.312414,
+          -0.342982,
+          -1.742965
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-5",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.404514,
+          1.676719,
+          0.161025,
+          -1.509218,
+          0.084955,
+          1.297518
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-6",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.575703,
+          -0.012718,
+          0.083935,
+          -0.297092,
+          -0.843334,
+          -1.217353
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-6",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.051383,
+          -0.265627,
+          -0.823433,
+          -1.1977,
+          -0.573978,
+          -0.015526
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-6",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.560263,
+          0.017902,
+          -0.113878,
+          0.279307,
+          0.830867,
+          1.211815
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-7",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.475793,
+          -0.514458,
+          2.312083,
+          0.025651,
+          0.721217,
+          -0.686531
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-7",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          2.333261,
+          -0.002257,
+          0.846465,
+          -0.658753,
+          -1.445809,
+          -0.52207
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-7",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          1.505825,
+          0.494341,
+          -2.311533,
+          -0.097263,
+          -0.797399,
+          0.711849
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-8",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          1.018188,
+          0.304541,
+          2.079999,
+          0.259055,
+          -0.615523,
+          -1.293634
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-8",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          2.079411,
+          0.273732,
+          -0.625964,
+          -1.292411,
+          1.007641,
+          0.264651
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-8",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.006607,
+          -0.312189,
+          -2.096102,
+          -0.303493,
+          0.607778,
+          1.328174
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-9",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.908007,
+          -0.141104,
+          0.085625,
+          0.60645,
+          0.765266,
+          1.455327
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-9",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.056446,
+          0.563596,
+          0.807338,
+          1.44597,
+          0.842959,
+          -0.105628
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-9",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.847791,
+          0.152668,
+          -0.103246,
+          -0.564996,
+          -0.801573,
+          -1.466626
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-10",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.665678,
+          1.346826,
+          0.917436,
+          -0.730953,
+          -0.275282,
+          0.16414
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-10",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.838178,
+          -0.759008,
+          -0.313577,
+          0.084578,
+          -1.650016,
+          1.393253
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-10",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          1.684407,
+          -1.395405,
+          -0.812106,
+          0.688757,
+          0.305591,
+          -0.133809
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-11",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.840214,
+          -0.675366,
+          0.758602,
+          -0.196397,
+          0.272965,
+          0.522837
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-11",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.756673,
+          -0.190842,
+          0.301148,
+          0.51884,
+          -1.787056,
+          -0.692768
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-11",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          1.790054,
+          0.62975,
+          -0.801631,
+          0.266106,
+          -0.309917,
+          -0.526722
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-12",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.179274,
+          -0.377617,
+          -0.112252,
+          -0.07526,
+          0.591433,
+          0.503977
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-12",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.125578,
+          -0.123398,
+          0.584141,
+          0.582371,
+          -0.144428,
+          -0.433742
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-12",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.159165,
+          0.419865,
+          0.126911,
+          0.156396,
+          -0.509084,
+          -0.506305
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-13",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -2.187587,
+          0.831092,
+          -0.488119,
+          0.127227,
+          -1.457235,
+          0.973271
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-13",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.509935,
+          0.149,
+          -1.499083,
+          1.017927,
+          -2.198627,
+          0.811319
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-13",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          2.180188,
+          -0.760439,
+          0.512315,
+          -0.153701,
+          1.465937,
+          -0.969358
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-14",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.60729,
+          -0.399154,
+          0.398987,
+          0.828905,
+          0.337972,
+          -0.792409
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-14",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.425609,
+          0.762062,
+          0.368401,
+          -0.779548,
+          -1.528441,
+          -0.332368
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-14",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          1.563371,
+          0.37144,
+          -0.476486,
+          -0.830294,
+          -0.358551,
+          0.809785
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-15",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.765748,
+          -0.866721,
+          0.810988,
+          0.08737,
+          -0.305925,
+          0.57838
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-15",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.802219,
+          0.076748,
+          -0.348393,
+          0.608527,
+          -0.834746,
+          -0.829108
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-15",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.782831,
+          0.88911,
+          -0.712659,
+          -0.142743,
+          0.33245,
+          -0.582852
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-16",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          1.200782,
+          -1.123441,
+          1.480699,
+          0.368477,
+          0.513914,
+          1.215292
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-16",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          1.490321,
+          0.328934,
+          0.520866,
+          1.116275,
+          1.268133,
+          -1.149665
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-16",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.271645,
+          1.160365,
+          -1.484166,
+          -0.361149,
+          -0.474636,
+          -1.127136
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-17",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.001704,
+          -0.279647,
+          1.782942,
+          0.101343,
+          -1.036166,
+          -0.274106
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-17",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          1.821723,
+          0.072013,
+          -0.957142,
+          -0.267399,
+          -0.003726,
+          -0.288616
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-17",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.049018,
+          0.191758,
+          -1.782324,
+          -0.085888,
+          0.956299,
+          0.239481
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-18",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          1.031486,
+          -1.274453,
+          0.998884,
+          -0.129744,
+          1.018331,
+          -1.318277
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-18",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          1.023375,
+          -0.217264,
+          1.033413,
+          -1.347131,
+          1.038881,
+          -1.244751
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-18",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.00205,
+          1.320485,
+          -0.948405,
+          0.196609,
+          -0.995593,
+          1.437893
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-19",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.181332,
+          0.956963,
+          0.718515,
+          -1.096097,
+          -0.452211,
+          -0.641927
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-19",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.654559,
+          -1.073525,
+          -0.472001,
+          -0.699877,
+          0.192448,
+          0.993856
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-19",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.154345,
+          -0.969365,
+          -0.739903,
+          1.089701,
+          0.461599,
+          0.677097
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-20",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.205629,
+          1.779552,
+          0.019922,
+          -0.48712,
+          -0.397166,
+          0.532302
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-20",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.008293,
+          -0.522581,
+          -0.350119,
+          0.602623,
+          -0.20851,
+          1.759
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-20",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.258491,
+          -1.77848,
+          0.005816,
+          0.551053,
+          0.33264,
+          -0.500545
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-21",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.524657,
+          -1.039705,
+          0.59252,
+          0.048726,
+          -1.373375,
+          1.498798
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-21",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.578798,
+          0.077237,
+          -1.378921,
+          1.53376,
+          -1.591145,
+          -1.03131
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-21",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          1.52382,
+          0.96096,
+          -0.616896,
+          -0.054488,
+          1.333812,
+          -1.523469
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-22",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.269684,
+          0.256771,
+          -1.528839,
+          -0.650331,
+          1.710016,
+          -2.62936
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-22",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -1.474922,
+          -0.596355,
+          1.730192,
+          -2.645842,
+          -1.290436,
+          0.27878
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-22",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          1.316741,
+          -0.26728,
+          1.479063,
+          0.660731,
+          -1.716075,
+          2.66826
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-23",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          1.790177,
+          0.027243,
+          -0.430742,
+          0.366685,
+          0.963155,
+          1.76426
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-23",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.42994,
+          0.337905,
+          0.937572,
+          1.793142,
+          1.744824,
+          0.018743
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-23",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.718961,
+          -0.015968,
+          0.415431,
+          -0.370694,
+          -0.93612,
+          -1.810059
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-24",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.453166,
+          -0.575903,
+          -0.512653,
+          -2.336483,
+          0.702256,
+          1.289569
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-24",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.543812,
+          -2.300433,
+          0.699182,
+          1.272749,
+          -0.430248,
+          -0.565518
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-24",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.48544,
+          0.573668,
+          0.548166,
+          2.242539,
+          -0.717077,
+          -1.275356
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-25",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.347768,
+          1.193041,
+          -1.329747,
+          0.359643,
+          -0.556669,
+          0.459154
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-25",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -1.290871,
+          0.287228,
+          -0.556417,
+          0.472454,
+          -0.368642,
+          1.210995
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-25",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.309608,
+          -1.204125,
+          1.291281,
+          -0.241856,
+          0.61272,
+          -0.506042
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-26",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.949835,
+          -2.26621,
+          0.360578,
+          0.951981,
+          -1.543002,
+          -1.42718
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-26",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.342684,
+          1.009574,
+          -1.563262,
+          -1.422867,
+          0.933991,
+          -2.23867
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-26",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.94941,
+          2.249468,
+          -0.369852,
+          -0.995453,
+          1.559963,
+          1.407667
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-27",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.965158,
+          -0.679921,
+          0.041644,
+          -0.368092,
+          1.087742,
+          -2.575568
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-27",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.028368,
+          -0.32732,
+          1.16117,
+          -2.619173,
+          0.933991,
+          -0.632586
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-27",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.012767,
+          0.672016,
+          0.012786,
+          0.375792,
+          -1.129238,
+          2.646616
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-28",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.008635,
+          -0.455279,
+          -1.311307,
+          -0.265959,
+          -1.553761,
+          -0.977668
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-28",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -1.258566,
+          -0.200883,
+          -1.528602,
+          -0.985153,
+          -0.063007,
+          -0.428222
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-28",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.015572,
+          0.415682,
+          1.259335,
+          0.276573,
+          1.549364,
+          1.042586
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-29",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.89061,
+          0.333975,
+          0.065508,
+          0.017315,
+          1.284923,
+          -0.658788
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-29",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.107702,
+          -0.030045,
+          1.298776,
+          -0.63594,
+          -0.857223,
+          0.39922
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-29",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.877297,
+          -0.332513,
+          -0.048734,
+          0.041714,
+          -1.226876,
+          0.714625
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-30",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -2.541374,
+          0.507723,
+          1.458705,
+          0.124638,
+          1.419006,
+          -0.893025
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-30",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          1.468105,
+          0.144332,
+          1.458997,
+          -0.866043,
+          -2.576604,
+          0.519579
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-30",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          2.573004,
+          -0.49097,
+          -1.429549,
+          -0.079545,
+          -1.465286,
+          0.935736
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-31",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.095893,
+          0.006458,
+          2.302977,
+          0.072093,
+          -1.504497,
+          0.539042
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-31",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          2.221128,
+          0.155033,
+          -1.568562,
+          0.519257,
+          0.049619,
+          0.051657
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-31",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.06151,
+          -0.009012,
+          -2.235159,
+          -0.116427,
+          1.538912,
+          -0.558476
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-32",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.171402,
+          1.733194,
+          0.045151,
+          0.935233,
+          0.137653,
+          -1.219739
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-32",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.018626,
+          0.998906,
+          0.135129,
+          -1.22913,
+          -1.238426,
+          1.775663
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-32",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          1.218326,
+          -1.831287,
+          -0.079741,
+          -1.036638,
+          -0.115081,
+          1.21027
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-33",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.60184,
+          -0.812144,
+          -0.969412,
+          -0.373902,
+          -0.669652,
+          1.077026
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-33",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -1.073937,
+          -0.403221,
+          -0.737546,
+          1.048229,
+          0.622223,
+          -0.806572
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-33",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.614849,
+          0.846162,
+          1.001556,
+          0.414573,
+          0.712522,
+          -1.058441
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-34",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.83535,
+          0.104745,
+          -0.044791,
+          -0.961001,
+          1.078791,
+          -0.174035
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-34",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.023711,
+          -0.9524,
+          1.142709,
+          -0.195069,
+          0.877099,
+          0.052622
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-34",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.836238,
+          -0.04522,
+          0.053633,
+          0.991463,
+          -1.053621,
+          0.164172
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-35",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          1.087999,
+          2.27734,
+          0.543966,
+          -0.350155,
+          -0.897635,
+          2.468058
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-35",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.589391,
+          -0.297351,
+          -0.897681,
+          2.490586,
+          1.052619,
+          2.280705
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-35",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.055589,
+          -2.257901,
+          -0.585885,
+          0.327286,
+          0.840455,
+          -2.488246
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-36",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          1.321797,
+          0.197176,
+          -0.984704,
+          -1.338944,
+          0.196031,
+          0.467188
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-36",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.935101,
+          -1.368341,
+          0.179752,
+          0.421663,
+          1.266802,
+          0.243119
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-36",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.228577,
+          -0.206327,
+          0.964406,
+          1.363052,
+          -0.216462,
+          -0.392727
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-37",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          2.976271,
+          0.121019,
+          0.880885,
+          -0.428197,
+          0.82797,
+          2.152659
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-37",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.957608,
+          -0.44783,
+          0.740233,
+          2.199295,
+          2.963036,
+          0.097021
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-37",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -3.019333,
+          -0.150812,
+          -0.979658,
+          0.439003,
+          -0.755423,
+          -2.104335
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-38",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.438432,
+          0.425547,
+          -0.307773,
+          -1.439588,
+          0.359641,
+          -0.581437
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-38",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.278404,
+          -1.464043,
+          0.337555,
+          -0.59704,
+          0.42914,
+          0.392844
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-38",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.42979,
+          -0.372393,
+          0.310487,
+          1.463871,
+          -0.413815,
+          0.603796
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-39",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.535064,
+          -0.716968,
+          -0.087606,
+          -0.152434,
+          -0.506609,
+          0.945321
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-39",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.055839,
+          -0.171548,
+          -0.504434,
+          0.987666,
+          0.547938,
+          -0.759209
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-39",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.569566,
+          0.782392,
+          0.073713,
+          0.104155,
+          0.45627,
+          -0.952391
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-40",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          1.052506,
+          -0.464356,
+          0.668348,
+          2.541448,
+          -2.281485,
+          0.962253
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-40",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.672859,
+          2.592312,
+          -2.312959,
+          0.929894,
+          0.973477,
+          -0.479674
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-40",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.007854,
+          0.412153,
+          -0.693094,
+          -2.563214,
+          2.32121,
+          -0.983011
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-41",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.363107,
+          -1.248571,
+          0.505578,
+          0.133844,
+          1.794728,
+          -2.843101
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-41",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.513696,
+          0.076488,
+          1.881336,
+          -2.876262,
+          0.275812,
+          -1.2251
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-41",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.264016,
+          1.273482,
+          -0.498972,
+          -0.121916,
+          -1.845071,
+          2.906599
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-42",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.728512,
+          0.421224,
+          -0.922963,
+          0.213662,
+          1.022092,
+          1.526984
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-42",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.919679,
+          0.179709,
+          1.022418,
+          1.600169,
+          -0.708935,
+          0.480356
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-42",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.72836,
+          -0.50428,
+          0.953215,
+          -0.213984,
+          -1.045903,
+          -1.586108
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-43",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.147378,
+          -1.17243,
+          -0.713997,
+          1.683877,
+          0.865836,
+          -1.910684
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-43",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.69793,
+          1.758147,
+          0.850439,
+          -1.915189,
+          -0.150548,
+          -1.186353
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-43",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.179963,
+          1.131436,
+          0.7045,
+          -1.685703,
+          -0.812189,
+          1.909574
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-44",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.991597,
+          0.901079,
+          0.680909,
+          0.192221,
+          2.087787,
+          0.753104
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-44",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.713484,
+          0.136189,
+          2.022717,
+          0.736523,
+          -1.970435,
+          0.881607
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-44",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          2.019424,
+          -0.895902,
+          -0.723944,
+          -0.199474,
+          -2.045827,
+          -0.699293
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-45",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.665845,
+          -0.834518,
+          0.741132,
+          -0.136306,
+          2.27975,
+          -1.7365
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-45",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.77906,
+          -0.117552,
+          2.287338,
+          -1.748135,
+          0.64176,
+          -0.827409
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-45",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.6448,
+          0.816311,
+          -0.800663,
+          0.13498,
+          -2.261701,
+          1.727932
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-46",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.040332,
+          -0.592734,
+          -0.001378,
+          1.61221,
+          -0.690973,
+          -0.999997
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-46",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.018332,
+          1.659859,
+          -0.724205,
+          -1.001156,
+          -1.05617,
+          -0.569144
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-46",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          1.076044,
+          0.56376,
+          0.061916,
+          -1.613641,
+          0.698603,
+          0.944576
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-47",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.586289,
+          -0.605533,
+          -0.915443,
+          1.176798,
+          -0.646074,
+          -1.728894
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-47",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.972229,
+          1.133824,
+          -0.688372,
+          -1.710398,
+          -0.490921,
+          -0.59302
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-47",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.556761,
+          0.601837,
+          0.998131,
+          -1.125932,
+          0.652207,
+          1.710798
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-48",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.656004,
+          -0.020898,
+          0.086961,
+          -0.598948,
+          -1.016167,
+          -0.233464
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-48",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.051084,
+          -0.602923,
+          -1.052086,
+          -0.169097,
+          -0.664088,
+          -0.034955
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-48",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.700506,
+          0.036281,
+          -0.117361,
+          0.695485,
+          0.949185,
+          0.161959
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-49",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          1.281844,
+          -0.734683,
+          0.260491,
+          -0.420196,
+          1.100377,
+          1.262775
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-49",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.260452,
+          -0.397113,
+          1.103792,
+          1.31115,
+          1.2242,
+          -0.72033
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-49",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.336527,
+          0.674124,
+          -0.29061,
+          0.461598,
+          -1.112146,
+          -1.218138
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-50",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.82563,
+          -0.377594,
+          0.616575,
+          0.794793,
+          -0.14236,
+          0.066437
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-50",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.648993,
+          0.847211,
+          -0.237455,
+          0.105692,
+          0.815376,
+          -0.339685
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-50",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.871887,
+          0.451635,
+          -0.61421,
+          -0.796734,
+          0.192008,
+          -0.096497
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-51",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.868015,
+          -0.005453,
+          1.063575,
+          -0.27148,
+          1.969267,
+          -1.372392
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-51",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          1.006425,
+          -0.222247,
+          1.946903,
+          -1.410184,
+          0.881558,
+          0.02625
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-51",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.947302,
+          0.047306,
+          -0.992331,
+          0.185602,
+          -1.984429,
+          1.408482
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-52",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          1.085234,
+          0.172686,
+          1.946557,
+          -1.099634,
+          -0.429864,
+          1.083685
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-52",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          1.9284,
+          -1.104893,
+          -0.487674,
+          1.071947,
+          1.065292,
+          0.129126
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-52",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.071652,
+          -0.189674,
+          -1.96284,
+          1.109424,
+          0.437919,
+          -1.080216
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-53",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          1.444823,
+          -1.554015,
+          0.784309,
+          1.152826,
+          0.101927,
+          -1.111221
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-53",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          0.782661,
+          1.207559,
+          0.06675,
+          -1.095529,
+          1.408731,
+          -1.61295
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-53",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -1.432113,
+          1.61301,
+          -0.71841,
+          -1.13553,
+          -0.138098,
+          1.070159
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-54",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.905264,
+          0.007373,
+          1.447074,
+          -0.358229,
+          1.657878,
+          -0.358801
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-54",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          1.452408,
+          -0.287959,
+          1.589513,
+          -0.354768,
+          0.897666,
+          0.07171
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-54",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.951941,
+          -0.096017,
+          -1.444189,
+          0.407626,
+          -1.61408,
+          0.35779
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-55",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.13102,
+          1.208831,
+          -0.906736,
+          0.066666,
+          -1.178747,
+          -0.525789
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-55",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.898652,
+          0.025682,
+          -1.139186,
+          -0.481853,
+          -0.147837,
+          1.231332
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-55",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.178177,
+          -1.223132,
+          0.909475,
+          -0.069237,
+          1.170546,
+          0.456452
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-56",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -1.291873,
+          -0.897509,
+          -0.674436,
+          1.995053,
+          0.293406,
+          -0.944208
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-56",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.680776,
+          1.906824,
+          0.271527,
+          -0.950302,
+          -1.27503,
+          -0.913436
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-56",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          1.254724,
+          0.912718,
+          0.664565,
+          -1.97969,
+          -0.245461,
+          0.921057
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-57",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          -0.520001,
+          -0.493495,
+          -0.885033,
+          1.703688,
+          0.769125,
+          -0.159045
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-57",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.889461,
+          1.724297,
+          0.754208,
+          -0.202872,
+          -0.52952,
+          -0.479565
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-57",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          0.508627,
+          0.480757,
+          0.883111,
+          -1.724612,
+          -0.793613,
+          0.166268
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-58",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.056654,
+          0.920198,
+          -0.166327,
+          0.148869,
+          -0.473464,
+          -0.414603
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-58",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.183072,
+          0.17275,
+          -0.435072,
+          -0.39869,
+          0.087105,
+          0.950421
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-58",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.115718,
+          -0.905535,
+          0.209443,
+          -0.131174,
+          0.448515,
+          0.406128
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "zh-59",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "values": [
+          0.498259,
+          0.18565,
+          -0.336844,
+          -0.535721,
+          0.023431,
+          -1.155153
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "en-59",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "values": [
+          -0.389655,
+          -0.488638,
+          0.012814,
+          -1.066318,
+          0.558731,
+          0.247105
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "ar-59",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "values": [
+          -0.563779,
+          -0.226785,
+          0.337337,
+          0.510178,
+          0.028026,
+          1.077638
+        ],
+        "index_version": "index-1"
+      },
+      {
+        "id": "fr-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "values": [
+          -0.86528,
+          0.47559,
+          -0.96389,
+          -0.20806
+        ],
+        "index_version": "index-fr-1"
+      },
+      {
+        "id": "fr-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "values": [
+          0.28493,
+          1.32712,
+          0.7619,
+          0.22534
+        ],
+        "index_version": "index-fr-1"
+      },
+      {
+        "id": "fr-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "values": [
+          -1.31928,
+          -0.0461,
+          -0.68892,
+          -1.78063
+        ],
+        "index_version": "index-fr-1"
+      },
+      {
+        "id": "fr-3",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "values": [
+          -0.23357,
+          0.61465,
+          -0.10743,
+          -0.27952
+        ],
+        "index_version": "index-fr-1"
+      },
+      {
+        "id": "fr-4",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "values": [
+          0.09394,
+          -1.18949,
+          1.36272,
+          -0.48079
+        ],
+        "index_version": "index-fr-1"
+      },
+      {
+        "id": "fr-5",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "values": [
+          -0.83903,
+          1.09033,
+          -0.05541,
+          -0.16008
+        ],
+        "index_version": "index-fr-1"
+      },
+      {
+        "id": "fr-6",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "values": [
+          -0.06895,
+          -0.95716,
+          0.74039,
+          -0.52139
+        ],
+        "index_version": "index-fr-1"
+      },
+      {
+        "id": "fr-7",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "values": [
+          0.7159,
+          -0.81618,
+          -0.4008,
+          1.0762
+        ],
+        "index_version": "index-fr-1"
+      }
+    ],
+    "documents": [
+      {
+        "id": "zh-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-0",
+        "collection": "collection-0",
+        "title": "文化材料 0",
+        "text": "地方技艺与海路交流记录 0"
+      },
+      {
+        "id": "en-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-0",
+        "collection": "collection-0",
+        "title": "文化材料 0",
+        "text": "地方技艺与海路交流记录 0"
+      },
+      {
+        "id": "ar-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-0",
+        "collection": "collection-0",
+        "title": "文化材料 0",
+        "text": "地方技艺与海路交流记录 0"
+      },
+      {
+        "id": "zh-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-0",
+        "collection": "collection-1",
+        "title": "文化材料 1",
+        "text": "地方技艺与海路交流记录 1"
+      },
+      {
+        "id": "en-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-0",
+        "collection": "collection-1",
+        "title": "文化材料 1",
+        "text": "地方技艺与海路交流记录 1"
+      },
+      {
+        "id": "ar-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-0",
+        "collection": "collection-1",
+        "title": "文化材料 1",
+        "text": "地方技艺与海路交流记录 1"
+      },
+      {
+        "id": "zh-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-1",
+        "collection": "collection-2",
+        "title": "文化材料 2",
+        "text": "地方技艺与海路交流记录 2"
+      },
+      {
+        "id": "en-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-1",
+        "collection": "collection-2",
+        "title": "文化材料 2",
+        "text": "地方技艺与海路交流记录 2"
+      },
+      {
+        "id": "ar-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-1",
+        "collection": "collection-2",
+        "title": "文化材料 2",
+        "text": "地方技艺与海路交流记录 2"
+      },
+      {
+        "id": "zh-3",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-1",
+        "collection": "collection-3",
+        "title": "文化材料 3",
+        "text": "地方技艺与海路交流记录 3"
+      },
+      {
+        "id": "en-3",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-1",
+        "collection": "collection-3",
+        "title": "文化材料 3",
+        "text": "地方技艺与海路交流记录 3"
+      },
+      {
+        "id": "ar-3",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-1",
+        "collection": "collection-3",
+        "title": "文化材料 3",
+        "text": "地方技艺与海路交流记录 3"
+      },
+      {
+        "id": "zh-4",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-2",
+        "collection": "collection-0",
+        "title": "文化材料 4",
+        "text": "地方技艺与海路交流记录 4"
+      },
+      {
+        "id": "en-4",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-2",
+        "collection": "collection-0",
+        "title": "文化材料 4",
+        "text": "地方技艺与海路交流记录 4"
+      },
+      {
+        "id": "ar-4",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-2",
+        "collection": "collection-0",
+        "title": "文化材料 4",
+        "text": "地方技艺与海路交流记录 4"
+      },
+      {
+        "id": "zh-5",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-2",
+        "collection": "collection-1",
+        "title": "文化材料 5",
+        "text": "地方技艺与海路交流记录 5"
+      },
+      {
+        "id": "en-5",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-2",
+        "collection": "collection-1",
+        "title": "文化材料 5",
+        "text": "地方技艺与海路交流记录 5"
+      },
+      {
+        "id": "ar-5",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-2",
+        "collection": "collection-1",
+        "title": "文化材料 5",
+        "text": "地方技艺与海路交流记录 5"
+      },
+      {
+        "id": "zh-6",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-3",
+        "collection": "collection-2",
+        "title": "文化材料 6",
+        "text": "地方技艺与海路交流记录 6"
+      },
+      {
+        "id": "en-6",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-3",
+        "collection": "collection-2",
+        "title": "文化材料 6",
+        "text": "地方技艺与海路交流记录 6"
+      },
+      {
+        "id": "ar-6",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-3",
+        "collection": "collection-2",
+        "title": "文化材料 6",
+        "text": "地方技艺与海路交流记录 6"
+      },
+      {
+        "id": "zh-7",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-3",
+        "collection": "collection-3",
+        "title": "文化材料 7",
+        "text": "地方技艺与海路交流记录 7"
+      },
+      {
+        "id": "en-7",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-3",
+        "collection": "collection-3",
+        "title": "文化材料 7",
+        "text": "地方技艺与海路交流记录 7"
+      },
+      {
+        "id": "ar-7",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-3",
+        "collection": "collection-3",
+        "title": "文化材料 7",
+        "text": "地方技艺与海路交流记录 7"
+      },
+      {
+        "id": "zh-8",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-4",
+        "collection": "collection-0",
+        "title": "文化材料 8",
+        "text": "地方技艺与海路交流记录 8"
+      },
+      {
+        "id": "en-8",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-4",
+        "collection": "collection-0",
+        "title": "文化材料 8",
+        "text": "地方技艺与海路交流记录 8"
+      },
+      {
+        "id": "ar-8",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-4",
+        "collection": "collection-0",
+        "title": "文化材料 8",
+        "text": "地方技艺与海路交流记录 8"
+      },
+      {
+        "id": "zh-9",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-4",
+        "collection": "collection-1",
+        "title": "文化材料 9",
+        "text": "地方技艺与海路交流记录 9"
+      },
+      {
+        "id": "en-9",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-4",
+        "collection": "collection-1",
+        "title": "文化材料 9",
+        "text": "地方技艺与海路交流记录 9"
+      },
+      {
+        "id": "ar-9",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-4",
+        "collection": "collection-1",
+        "title": "文化材料 9",
+        "text": "地方技艺与海路交流记录 9"
+      },
+      {
+        "id": "zh-10",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-5",
+        "collection": "collection-2",
+        "title": "文化材料 10",
+        "text": "地方技艺与海路交流记录 10"
+      },
+      {
+        "id": "en-10",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-5",
+        "collection": "collection-2",
+        "title": "文化材料 10",
+        "text": "地方技艺与海路交流记录 10"
+      },
+      {
+        "id": "ar-10",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-5",
+        "collection": "collection-2",
+        "title": "文化材料 10",
+        "text": "地方技艺与海路交流记录 10"
+      },
+      {
+        "id": "zh-11",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-5",
+        "collection": "collection-3",
+        "title": "文化材料 11",
+        "text": "地方技艺与海路交流记录 11"
+      },
+      {
+        "id": "en-11",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-5",
+        "collection": "collection-3",
+        "title": "文化材料 11",
+        "text": "地方技艺与海路交流记录 11"
+      },
+      {
+        "id": "ar-11",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-5",
+        "collection": "collection-3",
+        "title": "文化材料 11",
+        "text": "地方技艺与海路交流记录 11"
+      },
+      {
+        "id": "zh-12",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-6",
+        "collection": "collection-0",
+        "title": "文化材料 12",
+        "text": "地方技艺与海路交流记录 12"
+      },
+      {
+        "id": "en-12",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-6",
+        "collection": "collection-0",
+        "title": "文化材料 12",
+        "text": "地方技艺与海路交流记录 12"
+      },
+      {
+        "id": "ar-12",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-6",
+        "collection": "collection-0",
+        "title": "文化材料 12",
+        "text": "地方技艺与海路交流记录 12"
+      },
+      {
+        "id": "zh-13",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-6",
+        "collection": "collection-1",
+        "title": "文化材料 13",
+        "text": "地方技艺与海路交流记录 13"
+      },
+      {
+        "id": "en-13",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-6",
+        "collection": "collection-1",
+        "title": "文化材料 13",
+        "text": "地方技艺与海路交流记录 13"
+      },
+      {
+        "id": "ar-13",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-6",
+        "collection": "collection-1",
+        "title": "文化材料 13",
+        "text": "地方技艺与海路交流记录 13"
+      },
+      {
+        "id": "zh-14",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-7",
+        "collection": "collection-2",
+        "title": "文化材料 14",
+        "text": "地方技艺与海路交流记录 14"
+      },
+      {
+        "id": "en-14",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-7",
+        "collection": "collection-2",
+        "title": "文化材料 14",
+        "text": "地方技艺与海路交流记录 14"
+      },
+      {
+        "id": "ar-14",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-7",
+        "collection": "collection-2",
+        "title": "文化材料 14",
+        "text": "地方技艺与海路交流记录 14"
+      },
+      {
+        "id": "zh-15",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-7",
+        "collection": "collection-3",
+        "title": "文化材料 15",
+        "text": "地方技艺与海路交流记录 15"
+      },
+      {
+        "id": "en-15",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-7",
+        "collection": "collection-3",
+        "title": "文化材料 15",
+        "text": "地方技艺与海路交流记录 15"
+      },
+      {
+        "id": "ar-15",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-7",
+        "collection": "collection-3",
+        "title": "文化材料 15",
+        "text": "地方技艺与海路交流记录 15"
+      },
+      {
+        "id": "zh-16",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-8",
+        "collection": "collection-0",
+        "title": "文化材料 16",
+        "text": "地方技艺与海路交流记录 16"
+      },
+      {
+        "id": "en-16",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-8",
+        "collection": "collection-0",
+        "title": "文化材料 16",
+        "text": "地方技艺与海路交流记录 16"
+      },
+      {
+        "id": "ar-16",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-8",
+        "collection": "collection-0",
+        "title": "文化材料 16",
+        "text": "地方技艺与海路交流记录 16"
+      },
+      {
+        "id": "zh-17",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-8",
+        "collection": "collection-1",
+        "title": "文化材料 17",
+        "text": "地方技艺与海路交流记录 17"
+      },
+      {
+        "id": "en-17",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-8",
+        "collection": "collection-1",
+        "title": "文化材料 17",
+        "text": "地方技艺与海路交流记录 17"
+      },
+      {
+        "id": "ar-17",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-8",
+        "collection": "collection-1",
+        "title": "文化材料 17",
+        "text": "地方技艺与海路交流记录 17"
+      },
+      {
+        "id": "zh-18",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-9",
+        "collection": "collection-2",
+        "title": "文化材料 18",
+        "text": "地方技艺与海路交流记录 18"
+      },
+      {
+        "id": "en-18",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-9",
+        "collection": "collection-2",
+        "title": "文化材料 18",
+        "text": "地方技艺与海路交流记录 18"
+      },
+      {
+        "id": "ar-18",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-9",
+        "collection": "collection-2",
+        "title": "文化材料 18",
+        "text": "地方技艺与海路交流记录 18"
+      },
+      {
+        "id": "zh-19",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-9",
+        "collection": "collection-3",
+        "title": "文化材料 19",
+        "text": "地方技艺与海路交流记录 19"
+      },
+      {
+        "id": "en-19",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-9",
+        "collection": "collection-3",
+        "title": "文化材料 19",
+        "text": "地方技艺与海路交流记录 19"
+      },
+      {
+        "id": "ar-19",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-9",
+        "collection": "collection-3",
+        "title": "文化材料 19",
+        "text": "地方技艺与海路交流记录 19"
+      },
+      {
+        "id": "zh-20",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-10",
+        "collection": "collection-0",
+        "title": "文化材料 20",
+        "text": "地方技艺与海路交流记录 20"
+      },
+      {
+        "id": "en-20",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-10",
+        "collection": "collection-0",
+        "title": "文化材料 20",
+        "text": "地方技艺与海路交流记录 20"
+      },
+      {
+        "id": "ar-20",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-10",
+        "collection": "collection-0",
+        "title": "文化材料 20",
+        "text": "地方技艺与海路交流记录 20"
+      },
+      {
+        "id": "zh-21",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-10",
+        "collection": "collection-1",
+        "title": "文化材料 21",
+        "text": "地方技艺与海路交流记录 21"
+      },
+      {
+        "id": "en-21",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-10",
+        "collection": "collection-1",
+        "title": "文化材料 21",
+        "text": "地方技艺与海路交流记录 21"
+      },
+      {
+        "id": "ar-21",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-10",
+        "collection": "collection-1",
+        "title": "文化材料 21",
+        "text": "地方技艺与海路交流记录 21"
+      },
+      {
+        "id": "zh-22",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-11",
+        "collection": "collection-2",
+        "title": "文化材料 22",
+        "text": "地方技艺与海路交流记录 22"
+      },
+      {
+        "id": "en-22",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-11",
+        "collection": "collection-2",
+        "title": "文化材料 22",
+        "text": "地方技艺与海路交流记录 22"
+      },
+      {
+        "id": "ar-22",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-11",
+        "collection": "collection-2",
+        "title": "文化材料 22",
+        "text": "地方技艺与海路交流记录 22"
+      },
+      {
+        "id": "zh-23",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-11",
+        "collection": "collection-3",
+        "title": "文化材料 23",
+        "text": "地方技艺与海路交流记录 23"
+      },
+      {
+        "id": "en-23",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-11",
+        "collection": "collection-3",
+        "title": "文化材料 23",
+        "text": "地方技艺与海路交流记录 23"
+      },
+      {
+        "id": "ar-23",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-11",
+        "collection": "collection-3",
+        "title": "文化材料 23",
+        "text": "地方技艺与海路交流记录 23"
+      },
+      {
+        "id": "zh-24",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-12",
+        "collection": "collection-0",
+        "title": "文化材料 24",
+        "text": "地方技艺与海路交流记录 24"
+      },
+      {
+        "id": "en-24",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-12",
+        "collection": "collection-0",
+        "title": "文化材料 24",
+        "text": "地方技艺与海路交流记录 24"
+      },
+      {
+        "id": "ar-24",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-12",
+        "collection": "collection-0",
+        "title": "文化材料 24",
+        "text": "地方技艺与海路交流记录 24"
+      },
+      {
+        "id": "zh-25",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-12",
+        "collection": "collection-1",
+        "title": "文化材料 25",
+        "text": "地方技艺与海路交流记录 25"
+      },
+      {
+        "id": "en-25",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-12",
+        "collection": "collection-1",
+        "title": "文化材料 25",
+        "text": "地方技艺与海路交流记录 25"
+      },
+      {
+        "id": "ar-25",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-12",
+        "collection": "collection-1",
+        "title": "文化材料 25",
+        "text": "地方技艺与海路交流记录 25"
+      },
+      {
+        "id": "zh-26",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-13",
+        "collection": "collection-2",
+        "title": "文化材料 26",
+        "text": "地方技艺与海路交流记录 26"
+      },
+      {
+        "id": "en-26",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-13",
+        "collection": "collection-2",
+        "title": "文化材料 26",
+        "text": "地方技艺与海路交流记录 26"
+      },
+      {
+        "id": "ar-26",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-13",
+        "collection": "collection-2",
+        "title": "文化材料 26",
+        "text": "地方技艺与海路交流记录 26"
+      },
+      {
+        "id": "zh-27",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-13",
+        "collection": "collection-3",
+        "title": "文化材料 27",
+        "text": "地方技艺与海路交流记录 27"
+      },
+      {
+        "id": "en-27",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-13",
+        "collection": "collection-3",
+        "title": "文化材料 27",
+        "text": "地方技艺与海路交流记录 27"
+      },
+      {
+        "id": "ar-27",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-13",
+        "collection": "collection-3",
+        "title": "文化材料 27",
+        "text": "地方技艺与海路交流记录 27"
+      },
+      {
+        "id": "zh-28",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-14",
+        "collection": "collection-0",
+        "title": "文化材料 28",
+        "text": "地方技艺与海路交流记录 28"
+      },
+      {
+        "id": "en-28",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-14",
+        "collection": "collection-0",
+        "title": "文化材料 28",
+        "text": "地方技艺与海路交流记录 28"
+      },
+      {
+        "id": "ar-28",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-14",
+        "collection": "collection-0",
+        "title": "文化材料 28",
+        "text": "地方技艺与海路交流记录 28"
+      },
+      {
+        "id": "zh-29",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-14",
+        "collection": "collection-1",
+        "title": "文化材料 29",
+        "text": "地方技艺与海路交流记录 29"
+      },
+      {
+        "id": "en-29",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-14",
+        "collection": "collection-1",
+        "title": "文化材料 29",
+        "text": "地方技艺与海路交流记录 29"
+      },
+      {
+        "id": "ar-29",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-14",
+        "collection": "collection-1",
+        "title": "文化材料 29",
+        "text": "地方技艺与海路交流记录 29"
+      },
+      {
+        "id": "zh-30",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-15",
+        "collection": "collection-2",
+        "title": "文化材料 30",
+        "text": "地方技艺与海路交流记录 30"
+      },
+      {
+        "id": "en-30",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-15",
+        "collection": "collection-2",
+        "title": "文化材料 30",
+        "text": "地方技艺与海路交流记录 30"
+      },
+      {
+        "id": "ar-30",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-15",
+        "collection": "collection-2",
+        "title": "文化材料 30",
+        "text": "地方技艺与海路交流记录 30"
+      },
+      {
+        "id": "zh-31",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-15",
+        "collection": "collection-3",
+        "title": "文化材料 31",
+        "text": "地方技艺与海路交流记录 31"
+      },
+      {
+        "id": "en-31",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-15",
+        "collection": "collection-3",
+        "title": "文化材料 31",
+        "text": "地方技艺与海路交流记录 31"
+      },
+      {
+        "id": "ar-31",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-15",
+        "collection": "collection-3",
+        "title": "文化材料 31",
+        "text": "地方技艺与海路交流记录 31"
+      },
+      {
+        "id": "zh-32",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-16",
+        "collection": "collection-0",
+        "title": "文化材料 32",
+        "text": "地方技艺与海路交流记录 32"
+      },
+      {
+        "id": "en-32",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-16",
+        "collection": "collection-0",
+        "title": "文化材料 32",
+        "text": "地方技艺与海路交流记录 32"
+      },
+      {
+        "id": "ar-32",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-16",
+        "collection": "collection-0",
+        "title": "文化材料 32",
+        "text": "地方技艺与海路交流记录 32"
+      },
+      {
+        "id": "zh-33",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-16",
+        "collection": "collection-1",
+        "title": "文化材料 33",
+        "text": "地方技艺与海路交流记录 33"
+      },
+      {
+        "id": "en-33",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-16",
+        "collection": "collection-1",
+        "title": "文化材料 33",
+        "text": "地方技艺与海路交流记录 33"
+      },
+      {
+        "id": "ar-33",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-16",
+        "collection": "collection-1",
+        "title": "文化材料 33",
+        "text": "地方技艺与海路交流记录 33"
+      },
+      {
+        "id": "zh-34",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-17",
+        "collection": "collection-2",
+        "title": "文化材料 34",
+        "text": "地方技艺与海路交流记录 34"
+      },
+      {
+        "id": "en-34",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-17",
+        "collection": "collection-2",
+        "title": "文化材料 34",
+        "text": "地方技艺与海路交流记录 34"
+      },
+      {
+        "id": "ar-34",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-17",
+        "collection": "collection-2",
+        "title": "文化材料 34",
+        "text": "地方技艺与海路交流记录 34"
+      },
+      {
+        "id": "zh-35",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-17",
+        "collection": "collection-3",
+        "title": "文化材料 35",
+        "text": "地方技艺与海路交流记录 35"
+      },
+      {
+        "id": "en-35",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-17",
+        "collection": "collection-3",
+        "title": "文化材料 35",
+        "text": "地方技艺与海路交流记录 35"
+      },
+      {
+        "id": "ar-35",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-17",
+        "collection": "collection-3",
+        "title": "文化材料 35",
+        "text": "地方技艺与海路交流记录 35"
+      },
+      {
+        "id": "zh-36",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-18",
+        "collection": "collection-0",
+        "title": "文化材料 36",
+        "text": "地方技艺与海路交流记录 36"
+      },
+      {
+        "id": "en-36",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-18",
+        "collection": "collection-0",
+        "title": "文化材料 36",
+        "text": "地方技艺与海路交流记录 36"
+      },
+      {
+        "id": "ar-36",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-18",
+        "collection": "collection-0",
+        "title": "文化材料 36",
+        "text": "地方技艺与海路交流记录 36"
+      },
+      {
+        "id": "zh-37",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-18",
+        "collection": "collection-1",
+        "title": "文化材料 37",
+        "text": "地方技艺与海路交流记录 37"
+      },
+      {
+        "id": "en-37",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-18",
+        "collection": "collection-1",
+        "title": "文化材料 37",
+        "text": "地方技艺与海路交流记录 37"
+      },
+      {
+        "id": "ar-37",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-18",
+        "collection": "collection-1",
+        "title": "文化材料 37",
+        "text": "地方技艺与海路交流记录 37"
+      },
+      {
+        "id": "zh-38",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-19",
+        "collection": "collection-2",
+        "title": "文化材料 38",
+        "text": "地方技艺与海路交流记录 38"
+      },
+      {
+        "id": "en-38",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-19",
+        "collection": "collection-2",
+        "title": "文化材料 38",
+        "text": "地方技艺与海路交流记录 38"
+      },
+      {
+        "id": "ar-38",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-19",
+        "collection": "collection-2",
+        "title": "文化材料 38",
+        "text": "地方技艺与海路交流记录 38"
+      },
+      {
+        "id": "zh-39",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-19",
+        "collection": "collection-3",
+        "title": "文化材料 39",
+        "text": "地方技艺与海路交流记录 39"
+      },
+      {
+        "id": "en-39",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-19",
+        "collection": "collection-3",
+        "title": "文化材料 39",
+        "text": "地方技艺与海路交流记录 39"
+      },
+      {
+        "id": "ar-39",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-19",
+        "collection": "collection-3",
+        "title": "文化材料 39",
+        "text": "地方技艺与海路交流记录 39"
+      },
+      {
+        "id": "zh-40",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-20",
+        "collection": "collection-0",
+        "title": "文化材料 40",
+        "text": "地方技艺与海路交流记录 40"
+      },
+      {
+        "id": "en-40",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-20",
+        "collection": "collection-0",
+        "title": "文化材料 40",
+        "text": "地方技艺与海路交流记录 40"
+      },
+      {
+        "id": "ar-40",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-20",
+        "collection": "collection-0",
+        "title": "文化材料 40",
+        "text": "地方技艺与海路交流记录 40"
+      },
+      {
+        "id": "zh-41",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-20",
+        "collection": "collection-1",
+        "title": "文化材料 41",
+        "text": "地方技艺与海路交流记录 41"
+      },
+      {
+        "id": "en-41",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-20",
+        "collection": "collection-1",
+        "title": "文化材料 41",
+        "text": "地方技艺与海路交流记录 41"
+      },
+      {
+        "id": "ar-41",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-20",
+        "collection": "collection-1",
+        "title": "文化材料 41",
+        "text": "地方技艺与海路交流记录 41"
+      },
+      {
+        "id": "zh-42",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-21",
+        "collection": "collection-2",
+        "title": "文化材料 42",
+        "text": "地方技艺与海路交流记录 42"
+      },
+      {
+        "id": "en-42",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-21",
+        "collection": "collection-2",
+        "title": "文化材料 42",
+        "text": "地方技艺与海路交流记录 42"
+      },
+      {
+        "id": "ar-42",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-21",
+        "collection": "collection-2",
+        "title": "文化材料 42",
+        "text": "地方技艺与海路交流记录 42"
+      },
+      {
+        "id": "zh-43",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-21",
+        "collection": "collection-3",
+        "title": "文化材料 43",
+        "text": "地方技艺与海路交流记录 43"
+      },
+      {
+        "id": "en-43",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-21",
+        "collection": "collection-3",
+        "title": "文化材料 43",
+        "text": "地方技艺与海路交流记录 43"
+      },
+      {
+        "id": "ar-43",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-21",
+        "collection": "collection-3",
+        "title": "文化材料 43",
+        "text": "地方技艺与海路交流记录 43"
+      },
+      {
+        "id": "zh-44",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-22",
+        "collection": "collection-0",
+        "title": "文化材料 44",
+        "text": "地方技艺与海路交流记录 44"
+      },
+      {
+        "id": "en-44",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-22",
+        "collection": "collection-0",
+        "title": "文化材料 44",
+        "text": "地方技艺与海路交流记录 44"
+      },
+      {
+        "id": "ar-44",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-22",
+        "collection": "collection-0",
+        "title": "文化材料 44",
+        "text": "地方技艺与海路交流记录 44"
+      },
+      {
+        "id": "zh-45",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-22",
+        "collection": "collection-1",
+        "title": "文化材料 45",
+        "text": "地方技艺与海路交流记录 45"
+      },
+      {
+        "id": "en-45",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-22",
+        "collection": "collection-1",
+        "title": "文化材料 45",
+        "text": "地方技艺与海路交流记录 45"
+      },
+      {
+        "id": "ar-45",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-22",
+        "collection": "collection-1",
+        "title": "文化材料 45",
+        "text": "地方技艺与海路交流记录 45"
+      },
+      {
+        "id": "zh-46",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-23",
+        "collection": "collection-2",
+        "title": "文化材料 46",
+        "text": "地方技艺与海路交流记录 46"
+      },
+      {
+        "id": "en-46",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-23",
+        "collection": "collection-2",
+        "title": "文化材料 46",
+        "text": "地方技艺与海路交流记录 46"
+      },
+      {
+        "id": "ar-46",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-23",
+        "collection": "collection-2",
+        "title": "文化材料 46",
+        "text": "地方技艺与海路交流记录 46"
+      },
+      {
+        "id": "zh-47",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-23",
+        "collection": "collection-3",
+        "title": "文化材料 47",
+        "text": "地方技艺与海路交流记录 47"
+      },
+      {
+        "id": "en-47",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-23",
+        "collection": "collection-3",
+        "title": "文化材料 47",
+        "text": "地方技艺与海路交流记录 47"
+      },
+      {
+        "id": "ar-47",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-23",
+        "collection": "collection-3",
+        "title": "文化材料 47",
+        "text": "地方技艺与海路交流记录 47"
+      },
+      {
+        "id": "zh-48",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-24",
+        "collection": "collection-0",
+        "title": "文化材料 48",
+        "text": "地方技艺与海路交流记录 48"
+      },
+      {
+        "id": "en-48",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-24",
+        "collection": "collection-0",
+        "title": "文化材料 48",
+        "text": "地方技艺与海路交流记录 48"
+      },
+      {
+        "id": "ar-48",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-24",
+        "collection": "collection-0",
+        "title": "文化材料 48",
+        "text": "地方技艺与海路交流记录 48"
+      },
+      {
+        "id": "zh-49",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-24",
+        "collection": "collection-1",
+        "title": "文化材料 49",
+        "text": "地方技艺与海路交流记录 49"
+      },
+      {
+        "id": "en-49",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-24",
+        "collection": "collection-1",
+        "title": "文化材料 49",
+        "text": "地方技艺与海路交流记录 49"
+      },
+      {
+        "id": "ar-49",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-24",
+        "collection": "collection-1",
+        "title": "文化材料 49",
+        "text": "地方技艺与海路交流记录 49"
+      },
+      {
+        "id": "zh-50",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-25",
+        "collection": "collection-2",
+        "title": "文化材料 50",
+        "text": "地方技艺与海路交流记录 50"
+      },
+      {
+        "id": "en-50",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-25",
+        "collection": "collection-2",
+        "title": "文化材料 50",
+        "text": "地方技艺与海路交流记录 50"
+      },
+      {
+        "id": "ar-50",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-25",
+        "collection": "collection-2",
+        "title": "文化材料 50",
+        "text": "地方技艺与海路交流记录 50"
+      },
+      {
+        "id": "zh-51",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-25",
+        "collection": "collection-3",
+        "title": "文化材料 51",
+        "text": "地方技艺与海路交流记录 51"
+      },
+      {
+        "id": "en-51",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-25",
+        "collection": "collection-3",
+        "title": "文化材料 51",
+        "text": "地方技艺与海路交流记录 51"
+      },
+      {
+        "id": "ar-51",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-25",
+        "collection": "collection-3",
+        "title": "文化材料 51",
+        "text": "地方技艺与海路交流记录 51"
+      },
+      {
+        "id": "zh-52",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-26",
+        "collection": "collection-0",
+        "title": "文化材料 52",
+        "text": "地方技艺与海路交流记录 52"
+      },
+      {
+        "id": "en-52",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-26",
+        "collection": "collection-0",
+        "title": "文化材料 52",
+        "text": "地方技艺与海路交流记录 52"
+      },
+      {
+        "id": "ar-52",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-26",
+        "collection": "collection-0",
+        "title": "文化材料 52",
+        "text": "地方技艺与海路交流记录 52"
+      },
+      {
+        "id": "zh-53",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-26",
+        "collection": "collection-1",
+        "title": "文化材料 53",
+        "text": "地方技艺与海路交流记录 53"
+      },
+      {
+        "id": "en-53",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-26",
+        "collection": "collection-1",
+        "title": "文化材料 53",
+        "text": "地方技艺与海路交流记录 53"
+      },
+      {
+        "id": "ar-53",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-26",
+        "collection": "collection-1",
+        "title": "文化材料 53",
+        "text": "地方技艺与海路交流记录 53"
+      },
+      {
+        "id": "zh-54",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-27",
+        "collection": "collection-2",
+        "title": "文化材料 54",
+        "text": "地方技艺与海路交流记录 54"
+      },
+      {
+        "id": "en-54",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-27",
+        "collection": "collection-2",
+        "title": "文化材料 54",
+        "text": "地方技艺与海路交流记录 54"
+      },
+      {
+        "id": "ar-54",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-27",
+        "collection": "collection-2",
+        "title": "文化材料 54",
+        "text": "地方技艺与海路交流记录 54"
+      },
+      {
+        "id": "zh-55",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-27",
+        "collection": "collection-3",
+        "title": "文化材料 55",
+        "text": "地方技艺与海路交流记录 55"
+      },
+      {
+        "id": "en-55",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-27",
+        "collection": "collection-3",
+        "title": "文化材料 55",
+        "text": "地方技艺与海路交流记录 55"
+      },
+      {
+        "id": "ar-55",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-27",
+        "collection": "collection-3",
+        "title": "文化材料 55",
+        "text": "地方技艺与海路交流记录 55"
+      },
+      {
+        "id": "zh-56",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-28",
+        "collection": "collection-0",
+        "title": "文化材料 56",
+        "text": "地方技艺与海路交流记录 56"
+      },
+      {
+        "id": "en-56",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-28",
+        "collection": "collection-0",
+        "title": "文化材料 56",
+        "text": "地方技艺与海路交流记录 56"
+      },
+      {
+        "id": "ar-56",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-28",
+        "collection": "collection-0",
+        "title": "文化材料 56",
+        "text": "地方技艺与海路交流记录 56"
+      },
+      {
+        "id": "zh-57",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-28",
+        "collection": "collection-1",
+        "title": "文化材料 57",
+        "text": "地方技艺与海路交流记录 57"
+      },
+      {
+        "id": "en-57",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-28",
+        "collection": "collection-1",
+        "title": "文化材料 57",
+        "text": "地方技艺与海路交流记录 57"
+      },
+      {
+        "id": "ar-57",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-28",
+        "collection": "collection-1",
+        "title": "文化材料 57",
+        "text": "地方技艺与海路交流记录 57"
+      },
+      {
+        "id": "zh-58",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-29",
+        "collection": "collection-2",
+        "title": "文化材料 58",
+        "text": "地方技艺与海路交流记录 58"
+      },
+      {
+        "id": "en-58",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-29",
+        "collection": "collection-2",
+        "title": "文化材料 58",
+        "text": "地方技艺与海路交流记录 58"
+      },
+      {
+        "id": "ar-58",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-29",
+        "collection": "collection-2",
+        "title": "文化材料 58",
+        "text": "地方技艺与海路交流记录 58"
+      },
+      {
+        "id": "zh-59",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "zh",
+        "family": "family-29",
+        "collection": "collection-3",
+        "title": "文化材料 59",
+        "text": "地方技艺与海路交流记录 59"
+      },
+      {
+        "id": "en-59",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "en",
+        "family": "family-29",
+        "collection": "collection-3",
+        "title": "文化材料 59",
+        "text": "地方技艺与海路交流记录 59"
+      },
+      {
+        "id": "ar-59",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "ar",
+        "family": "family-29",
+        "collection": "collection-3",
+        "title": "文化材料 59",
+        "text": "地方技艺与海路交流记录 59"
+      },
+      {
+        "id": "fr-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "family": "fr-family-0",
+        "collection": "collection-3",
+        "title": "法语材料 0",
+        "text": "文化摘录 0"
+      },
+      {
+        "id": "fr-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "family": "fr-family-1",
+        "collection": "collection-3",
+        "title": "法语材料 1",
+        "text": "文化摘录 1"
+      },
+      {
+        "id": "fr-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "family": "fr-family-2",
+        "collection": "collection-3",
+        "title": "法语材料 2",
+        "text": "文化摘录 2"
+      },
+      {
+        "id": "fr-3",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "family": "fr-family-3",
+        "collection": "collection-3",
+        "title": "法语材料 3",
+        "text": "文化摘录 3"
+      },
+      {
+        "id": "fr-4",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "family": "fr-family-4",
+        "collection": "collection-3",
+        "title": "法语材料 4",
+        "text": "文化摘录 4"
+      },
+      {
+        "id": "fr-5",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "family": "fr-family-5",
+        "collection": "collection-3",
+        "title": "法语材料 5",
+        "text": "文化摘录 5"
+      },
+      {
+        "id": "fr-6",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "family": "fr-family-6",
+        "collection": "collection-3",
+        "title": "法语材料 6",
+        "text": "文化摘录 6"
+      },
+      {
+        "id": "fr-7",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "language": "fr",
+        "family": "fr-family-7",
+        "collection": "collection-3",
+        "title": "法语材料 7",
+        "text": "文化摘录 7"
+      }
+    ],
+    "anchors": [
+      {
+        "id": "anchor-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-0",
+        "right": "en-1",
+        "confidence": 0.65,
+        "sense": "sense-0",
+        "confirmed": false
+      },
+      {
+        "id": "ar-anchor-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "en-0",
+        "right": "ar-0",
+        "confidence": 0.9,
+        "sense": "sense-0",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-1",
+        "right": "en-1",
+        "confidence": 0.95,
+        "sense": "sense-1",
+        "confirmed": true
+      },
+      {
+        "id": "ar-anchor-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "en-1",
+        "right": "ar-1",
+        "confidence": 0.9,
+        "sense": "sense-1",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-2",
+        "right": "en-2",
+        "confidence": 0.95,
+        "sense": "sense-2",
+        "confirmed": true
+      },
+      {
+        "id": "ar-anchor-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "en-2",
+        "right": "ar-2",
+        "confidence": 0.9,
+        "sense": "sense-2",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-3",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-3",
+        "right": "en-3",
+        "confidence": 0.95,
+        "sense": "sense-3",
+        "confirmed": true
+      },
+      {
+        "id": "ar-anchor-3",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "en-3",
+        "right": "ar-3",
+        "confidence": 0.9,
+        "sense": "sense-3",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-4",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-4",
+        "right": "en-4",
+        "confidence": 0.95,
+        "sense": "sense-4",
+        "confirmed": true
+      },
+      {
+        "id": "ar-anchor-4",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "en-4",
+        "right": "ar-4",
+        "confidence": 0.9,
+        "sense": "sense-4",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-5",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-5",
+        "right": "en-5",
+        "confidence": 0.95,
+        "sense": "sense-0",
+        "confirmed": true
+      },
+      {
+        "id": "ar-anchor-5",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "en-5",
+        "right": "ar-5",
+        "confidence": 0.9,
+        "sense": "sense-0",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-6",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-6",
+        "right": "en-6",
+        "confidence": 0.95,
+        "sense": "sense-1",
+        "confirmed": true
+      },
+      {
+        "id": "ar-anchor-6",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "en-6",
+        "right": "ar-6",
+        "confidence": 0.9,
+        "sense": "sense-1",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-7",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-7",
+        "right": "en-8",
+        "confidence": 0.65,
+        "sense": "sense-2",
+        "confirmed": false
+      },
+      {
+        "id": "ar-anchor-7",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "en-7",
+        "right": "ar-7",
+        "confidence": 0.9,
+        "sense": "sense-2",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-8",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-8",
+        "right": "en-8",
+        "confidence": 0.95,
+        "sense": "sense-3",
+        "confirmed": true
+      },
+      {
+        "id": "ar-anchor-8",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "en-8",
+        "right": "ar-8",
+        "confidence": 0.9,
+        "sense": "sense-3",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-9",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-9",
+        "right": "en-9",
+        "confidence": 0.95,
+        "sense": "sense-4",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-10",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-10",
+        "right": "en-10",
+        "confidence": 0.95,
+        "sense": "sense-0",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-11",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-11",
+        "right": "en-11",
+        "confidence": 0.95,
+        "sense": "sense-1",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-12",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-12",
+        "right": "en-12",
+        "confidence": 0.95,
+        "sense": "sense-2",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-13",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-13",
+        "right": "en-13",
+        "confidence": 0.95,
+        "sense": "sense-3",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-14",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-14",
+        "right": "en-15",
+        "confidence": 0.65,
+        "sense": "sense-4",
+        "confirmed": false
+      },
+      {
+        "id": "anchor-15",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-15",
+        "right": "en-15",
+        "confidence": 0.95,
+        "sense": "sense-0",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-16",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-16",
+        "right": "en-16",
+        "confidence": 0.95,
+        "sense": "sense-1",
+        "confirmed": true
+      },
+      {
+        "id": "anchor-17",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "left": "zh-17",
+        "right": "en-17",
+        "confidence": 0.95,
+        "sense": "sense-2",
+        "confirmed": true
+      }
+    ],
+    "permissions": [
+      {
+        "id": "editor",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "allowed_languages": [
+          "zh",
+          "en",
+          "ar"
+        ],
+        "allowed_collections": [
+          "collection-0",
+          "collection-1",
+          "collection-2"
+        ]
+      }
+    ]
+  },
+  "policy": {
+    "blocked_items": [
+      "ar-4"
+    ],
+    "revision": 1
+  }
+}
