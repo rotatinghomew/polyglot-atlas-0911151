@@ -15,3 +15,16 @@
 首次成功返回 201 和不可变 `artifact_id`。同一个请求键与相同内容重试返回同一成果；同键异内容为 409。新发布的消费约束代次过期、项目被禁用同样为 409。已有成果不会被重试、后续修订或约束更新覆盖。`GET /artifacts/编号` 返回原始成果，缺失编号为 404。字段或指纹无效返回 400。
 
 本地联调可用 `POST /policy`，JSON 含 `expected_revision` 和 `policy`，按比较交换更新消费约束。此接口仅用于本地管理，不是分析方法输入。`GET /health` 返回产品名与状态。错误响应均含中文 `error`，客户端保留 HTTP 状态以区分无效请求与冲突。
+
+## 跨语种对齐与检索
+
+对齐方案是独立于成果库的版本化注册表，方法版本固定为 `cross-lingual-alignment-v1`，口径见 `docs/alignment.md`。
+
+- `POST /alignments`：JSON 含 `as_of` 与可选 `activate`（默认 true）。服务按该日期快照构建完整对齐方案（含全部语种对的接受/拒配记录、留家族验证、塌缩诊断与可信范围），在单个数据库事务内写入新版本并切换生效指针，返回 `alignment_id`、`alignment_version` 与不含矩阵的 `plan_summary`。相同内容重复提交为幂等重放，返回同一版本。
+- `GET /alignments/active`：返回当前生效方案完整内容；尚无生效版本时为 404，错误码 `no-active-alignment`。
+- `GET /alignments/versions`：列出全部不可变历史版本及当前生效版本号。
+- `GET /alignments/{版本号}`：读取指定历史版本，缺失为 404。
+- `POST /alignments/activate`：JSON 含 `alignment_version` 与可选 `expected_active_version`，按比较交换切换生效版本；版本不存在或期望版本不符均为 409。
+- `GET /search/cross-lingual?document=...&target_language=...&as_of=...&limit=...`：在生效对齐版本上执行跨语种检索。无生效方案或方案快照指纹与当前快照不一致为 409；语种无可靠连接、权限不足、同语种误用等为 422，响应体含机器可读 `code`（如 `unreachable-language`、`forbidden`、`forbidden-language`、`same-language`、`dimension-mismatch`）与中文 `error`。每条候选都带 `alignment_id`、`alignment_version`、`alignment_path`、`trust_band` 与 `credible` 标记。
+
+检索读取的是激活版本的完整方案，对齐更新期间不会出现一次查询混用两个空间的情况；目标向量索引版本与对齐声明不一致时跳过该候选。

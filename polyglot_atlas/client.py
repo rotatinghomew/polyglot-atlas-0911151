@@ -37,3 +37,32 @@ class ProductClient:
 
     def artifact(self, identifier):
         return self.request("/artifacts/" + identifier)
+
+    def build_alignment(self, as_of, activate=True):
+        return self.request("/alignments", {"as_of": as_of, "activate": activate})
+
+    def active_alignment(self):
+        return self.request("/alignments/active")
+
+    def alignment_versions(self):
+        return self.request("/alignments/versions")
+
+    def alignment(self, version):
+        return self.request("/alignments/" + str(version))
+
+    def activate_alignment(self, version, expected_active_version=None):
+        return self.request(
+            "/alignments/activate",
+            {"alignment_version": version, "expected_active_version": expected_active_version},
+        )
+
+    def cross_lingual_search(self, document, target_language, as_of, limit=5):
+        from urllib.parse import quote
+
+        query = (
+            "?document=" + quote(document)
+            + "&target_language=" + quote(target_language)
+            + "&as_of=" + quote(as_of)
+            + "&limit=" + str(limit)
+        )
+        return self.request("/search/cross-lingual" + query)
